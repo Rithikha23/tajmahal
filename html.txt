@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HELLO</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body style="background-color: ">
+        <H1> SEVEN WONDERS OF THE WORLD </H1>
+        <br>
+        <img src="unnamed.webp" usemap="#map">
+        <map name="map">
+            <area shape="rect" coords="6,5,506,170"  alt="no referance" href="https://en.wikipedia.org/wiki/Taj_Mahal#:~:text=%27Crown%20of%20the%20Palace%27),tomb%20of%20Shah%20Jahan%20himself." target="_blank" title="TAJMAHAL">
+            <area shape="rect" coords="7,342,169,505" alt="no referance" href="https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza" target="_blank" title="GREAT PYRAMID OF GIZA">
+            <area shape="rect" coords="5,176,168,504" alt="no referance" href="https://en.wikipedia.org/wiki/Great_Wall_of_China" target="_blank" title="GREAT WALL OF CHINA">
+       </map>            
+    </body>
+</html>
+
